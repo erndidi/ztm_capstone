@@ -3,6 +3,8 @@ import '../../components/directory/directory.component.jsx'
 import Directory from '../../components/directory/directory.component.jsx';
 
 const Home = () => {
+
+
  const categories = [
     {
       id: 1,
